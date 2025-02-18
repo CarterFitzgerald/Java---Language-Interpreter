@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Interpreter
+comment1.params=
+comment1.target=Interpreter()
+comment2.params=lines
+comment2.target=void\ executeFile(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ clearVariables()
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Statement
+comment1.params=variables
+comment1.target=Statement(java.util.Map)
+comment10.params=variable
+comment10.target=int\ getVariableValue(java.lang.String)
+comment11.params=
+comment11.target=void\ end()
+comment2.params=tokens
+comment2.target=void\ execute(java.lang.String[])
+comment3.params=tokens
+comment3.target=void\ set(java.lang.String[])
+comment4.params=tokens
+comment4.target=void\ add(java.lang.String[])
+comment5.params=tokens
+comment5.target=void\ subtract(java.lang.String[])
+comment6.params=tokens
+comment6.target=void\ multiply(java.lang.String[])
+comment7.params=tokens
+comment7.target=void\ divide(java.lang.String[])
+comment8.params=tokens
+comment8.target=void\ print(java.lang.String[])
+comment9.params=tokens
+comment9.target=void\ println(java.lang.String[])
+numComments=12
